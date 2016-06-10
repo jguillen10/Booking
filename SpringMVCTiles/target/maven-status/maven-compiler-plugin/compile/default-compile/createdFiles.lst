@@ -1,0 +1,6 @@
+org\viralpatel\contact\form\Contact.class
+org\viralpatel\contact\service\ContactService.class
+org\viralpatel\contact\dao\ContactDAOImpl.class
+org\viralpatel\contact\controller\MyController.class
+org\viralpatel\contact\dao\ContactDAO.class
+org\viralpatel\contact\service\ContactServiceImpl.class
